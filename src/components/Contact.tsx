@@ -127,7 +127,7 @@ const Contact = () => {
             Get In <span className="gradient-text">Touch</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to transform your business with AI? Let's discuss your project 
+            Ready to transform your business with AI? Let&apos;s discuss your project 
             and explore how we can help you achieve your goals.
           </p>
         </motion.div>
