@@ -155,7 +155,7 @@ const Contact = () => {
                     <span className="font-semibold">Success!</span>
                   </div>
                   <p className="mt-1 text-sm">
-                    Your message has been sent via WhatsApp. We'll respond within 24 hours.
+                    Your message has been sent via WhatsApp. We&apos;ll respond within 24 hours.
                   </p>
                 </motion.div>
               )}
@@ -279,8 +279,8 @@ const Contact = () => {
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Contact Information</h3>
               <p className="text-gray-600 mb-8">
-                We're here to help you succeed. Reach out through any of these channels 
-                and we'll get back to you within 24 hours.
+                We&apos;re here to help you succeed. Reach out through any of these channels 
+                and we&apos;ll get back to you within 24 hours.
               </p>
             </div>
 

@@ -7,9 +7,6 @@ const nextConfig = {
   },
   basePath: process.env.NODE_ENV === 'production' ? '/worklance-ai' : '',
   assetPrefix: process.env.NODE_ENV === 'production' ? '/worklance-ai/' : '',
-  experimental: {
-    appDir: true,
-  },
 }
 
 module.exports = nextConfig

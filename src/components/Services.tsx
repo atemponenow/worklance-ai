@@ -117,7 +117,7 @@ const Services = () => {
               Ready to Transform Your Business?
             </h3>
             <p className="text-xl mb-8 opacity-90">
-              Let's discuss how our AI solutions can drive your success.
+              Let&apos;s discuss how our AI solutions can drive your success.
             </p>
             <motion.button
               onClick={() => scrollToSection('contact')}
